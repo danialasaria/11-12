@@ -8,5 +8,10 @@
     "start": "node server.js"
   },
   "author": "Danial Asaria",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "mongoose": "^6.3.1"
+  }
 }
